@@ -1,0 +1,9 @@
+dist
+node_modules
+.sass-cache
+.DS_Store
+*.swo
+*.swp
+*.map
+*.log
+*.sublime*
