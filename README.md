@@ -1,4 +1,10 @@
-﻿# For the Badge
+---
+
+🚨 **NOTICE:** This repository for **For the Badge Version 2** is archived and has moved to read-only mode since we now have **Version 3** live in our main repository. You can view the latest version [here](https://github.com/forthebadge/for-the-badge). 🚨
+
+---
+ 
+ # For the Badge
 
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)](https://forthebadge.com)
